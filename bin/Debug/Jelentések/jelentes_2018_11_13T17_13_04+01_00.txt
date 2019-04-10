@@ -1,0 +1,21 @@
+[center][img] https://i.imgur.com/RCyidnw.png [/img][/center]
+
+[center][font=century gothic][size=18pt][color=darkred] Országos Katasztrófavédelmi Főigazgatóság [/color][/size][/font][/center]
+[center][font=century gothic][size=18pt][color=darkred] Jelentés [/color][/size][/font][/center]
+
+[hr]
+
+[center][font=century gothic][size=16pt][color=darkred][b] Név: [/b][/color][/size][/font][/center]
+[center][font=century gothic][size=12pt][color=white] - Név - [/color][/size][/font][/center]
+
+[center][font=century gothic][size=16pt][color=darkred][b] Rendfokozat: [/b][/color][/size][/font][/center]
+[center][font=century gothic][size=12pt][color=white] - Rendfokozat - [/color][/size][/font][/center]
+
+[center][font=century gothic][size=16pt][color=darkred][b] Káreset leírása: [/b][/color][/size][/font][/center]
+[center][font=century gothic][size=12pt][color=white] - Káreset - [/color][/size][/font][/center]
+
+[center][font=century gothic][size=16pt][color=darkred][b] Kép: [/b][/color][/size][/font][/center]
+[center][font=century gothic][size=12pt][color=white] - https://i.imgur.com/fvCQNYx.jpg - [/color][/size][/font][/center]
+
+[center][font=century gothic][size=16pt][color=darkred][b] Kelt: [/b][/color][/size][/font][/center]
+[center][font=century gothic][size=12pt][color=white] - 2018. 11. 13. - [/color][/size][/font][/center]
